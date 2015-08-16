@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SitePolicy", "SitePolicy", "{C57F3327-6260-4ED5-B461-FB8CBD5E4B52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP.SitePolicyEmailChanger", "SitePolicy\SP.SitePolicyEmailChanger\SP.SitePolicyEmailChanger.csproj", "{3E878902-6802-407D-B96A-D100D548C718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E878902-6802-407D-B96A-D100D548C718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E878902-6802-407D-B96A-D100D548C718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E878902-6802-407D-B96A-D100D548C718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E878902-6802-407D-B96A-D100D548C718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3E878902-6802-407D-B96A-D100D548C718} = {C57F3327-6260-4ED5-B461-FB8CBD5E4B52}
+	EndGlobalSection
+EndGlobal

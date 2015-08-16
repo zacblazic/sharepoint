@@ -1,0 +1,1 @@
+F:\Development\Workspace\sharepoint\SitePolicy\SP.SitePolicyEmailChanger\bin\Debug\SP.SitePolicyEmailChanger.exe.config
